@@ -25,7 +25,7 @@ La actividad ha sido realizada conjuntamente por **Germán Yepes Calero** y **Ma
   
   &rarr; sample_submission_49d68Cx.csv. Constará de una única columna que nos indicará el estado del préstamo para los clientes del archivo anterior "madhante.csv"
   
-En la práctica se trabajará con un dataset donde se agruparán los tres archivos anteriores, generando un dataset más robusto.
+En la práctica, sobre el apartado de limpieza, se trabajará con un dataset donde se agruparán los tres archivos anteriores, generando un dataset más robusto.
 
   &rarr; Loan_clean.csv. Fichero final obtenido tras el proceso de limpieza de datos. Este fichero será utilizado a la hora de analizar los datos y participará en la construcción del modelo predictivo.
 
