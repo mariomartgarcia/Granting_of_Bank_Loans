@@ -13,16 +13,14 @@ La actividad ha sido realizada conjuntamente por **Germán Yepes Calero** y **Ma
 
 ## Ficheros 
 
-Carpeta "python_code":
+Carpeta "Rstudio_code":
 
-  &rarr; Código de texto escrito en python guardado en formato _.ipynb_ y creado en la plataforma "Jupyter"
-
-  &rarr; Evaluación inicial sobre Rincón Educativo en formato _.ipynb_ y creado en la plataforma "Jupyter"
-                 
-  &rarr; Evaluación inicial sobre wikipedia en formato _.ipynb_ y creado en la plataforma "Jupyter"
+  &rarr; Código del documento final guardado en formato _.rmd_ y creado en la plataforma "Rstudio"
                  
 Carpeta "csv":
 
+  &rarr; Archivo _.csv_ con los datos finales.
+  &rarr; Archivo _.csv_ con los datos finales.
   &rarr; Archivo _.csv_ con los datos finales.
 
 Carpeta "pdf":
