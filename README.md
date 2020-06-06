@@ -13,7 +13,7 @@ La actividad ha sido realizada conjuntamente por **Germán Yepes Calero** y **Ma
 
 ## Ficheros 
 
-__Carpeta "Rstudio_code":__
+<u>Carpeta "Rstudio_code":</u>
 
   &rarr; Código del documento final guardado en formato _.rmd_ y creado en la plataforma "Rstudio"
                  
