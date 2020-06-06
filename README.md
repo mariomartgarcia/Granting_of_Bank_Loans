@@ -13,11 +13,11 @@ La actividad ha sido realizada conjuntamente por **Germán Yepes Calero** y **Ma
 
 ## Ficheros 
 
-Carpeta "Rstudio_code":
+_Carpeta "Rstudio_code":_
 
   &rarr; Código del documento final guardado en formato _.rmd_ y creado en la plataforma "Rstudio"
                  
-Carpeta "csv":
+_Carpeta "csv":_
 
   &rarr; madhantr.csv. Contendrá los detalles de un subconjunto del proceso de elegibilidad para préstamos de clientes (614 para ser exactos). Conjunto estipulado como entrenamiento.
   
@@ -29,7 +29,7 @@ En la práctica se trabajará con un dataset donde se agruparán los tres archiv
 
   &rarr; Loan_clean.csv. Fichero final obtenido tras el proceso de limpieza de datos. Este fichero será utilizado a la hora de analizar los datos y participará en la construcción del modelo predictivo.
 
-Carpeta "pdf":
+_Carpeta "pdf":_
 
   &rarr; Archivo  _.pdf_ con una descripción completa de la práctica.
 
