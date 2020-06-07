@@ -3,7 +3,7 @@
 
 ## Descripción
 
-El objetivo de esta práctica es la limpieza, análisis y representación de un conjunto de datos, para ello se ha utilizado el programa Rstudio con el que se han extraído conclusiones sobre las solicitudes de préstamos hipotecarios realizados a la compañía Dream Housing Finance. A lo largo de la práctica se trabajará con el propósito de poder llegar a un modelo preditivo capaz de inferirnos el estado del acuerdo de un préstamo en función de unos determinados parámetros de entrada.
+El objetivo de esta práctica es la limpieza, análisis y representación de un conjunto de datos, para ello se ha utilizado el programa Rstudio con el que se han extraído conclusiones sobre las solicitudes de préstamos hipotecarios realizados a la compañía Dream Housing Finance. A lo largo de la práctica se trabajará con el propósito de poder llegar a un modelo predictivo capaz de inferirnos el estado del acuerdo de un préstamo en función de unos determinados parámetros de entrada.
 
 
 ## Miembros del equipo
