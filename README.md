@@ -37,6 +37,6 @@ En la práctica, sobre el apartado de limpieza, se trabajará con un dataset don
 
 ## Recursos consultados
 
-* Lawson, R. (2015, october). _Web Scraping with Python_. Birmingham: Packt Publishing Ltd.
+* Subirats, L., Pérez, D.O. & Calvo, M. (2019, septiembre). _Introducción a la limpieza y análisis de los datos_. Barcelona: FUOC. Material proporcionado por la UOC.
 
-* https://www.kaggle.com/madhansing/bank-loan2 consultada por última vez el 06/06/2020.
+* https://www.kaggle.com/madhansing/bank-loan2 consultado por última vez el 06/06/2020.
