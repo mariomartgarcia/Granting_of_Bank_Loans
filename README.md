@@ -4,7 +4,7 @@
 
 The objective of this practice is the cleaning, analysis and representation of a loan dataset. Rstudio programme has been used to obtain conclusions about the mortgage loan applications made to the company Dream Housing Finance. Throughout the practice we will work with the purpose of being able to arrive at a predictive model capable of inferring the state of a loan agreement according to certain input parameters.
 
-
+This practice is developed in the UOC's _master's degree in data science_, more specifically in the subject of "Data typology and data life cycle".
 
 ## Team members
 
