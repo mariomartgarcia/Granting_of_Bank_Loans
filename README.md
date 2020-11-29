@@ -1,42 +1,42 @@
-# Práctica 2: Limpieza y análisis de datos
-## Concesión de préstamos bancarios
+## Granting of Bank Loans
 
-## Descripción
+## Description
 
-El objetivo de esta práctica es la limpieza, análisis y representación de un conjunto de datos, para ello se ha utilizado el programa Rstudio con el que se han extraído conclusiones sobre las solicitudes de préstamos hipotecarios realizados a la compañía Dream Housing Finance. A lo largo de la práctica se trabajará con el propósito de poder llegar a un modelo predictivo capaz de inferirnos el estado del acuerdo de un préstamo en función de unos determinados parámetros de entrada.
-
-
-## Miembros del equipo
-
-La actividad ha sido realizada conjuntamente por **Germán Yepes Calero** y **Mario Martínez García**.
+The objective of this practice is the cleaning, analysis and representation of a loan dataset. Rstudio programme has been used to obtain conclusions about the mortgage loan applications made to the company Dream Housing Finance. Throughout the practice we will work with the purpose of being able to arrive at a predictive model capable of inferring the state of a loan agreement according to certain input parameters.
 
 
-## Ficheros 
 
-**Carpeta "Rstudio_code":**
+## Team members
 
-  &rarr; Código del documento final guardado en formato _.rmd_ y creado en la plataforma "Rstudio"
+The activity was carried out jointly by **Germán Yepes Calero** and **Mario Martínez García**.
+
+
+## Files
+
+**Folder "Rstudio_code":**
+
+  &rarr; Code of the final document saved in _.rmd_ format and created in the "Rstudio" platform
                  
-**Carpeta "csv":**
+**Folder "csv":**
 
-  &rarr; madhantr.csv. Contendrá los detalles de un subconjunto del proceso de elegibilidad para préstamos de clientes (614 para ser exactos). Conjunto estipulado como entrenamiento.
+  &rarr; madhantr.csv. It contains the details of a subset of the client loan eligibility process (614 to be exact). Set stipulated as training.
   
-  &rarr; madhante.csv. Contendrá información similar al archivo anterior pero no revelará el estado del préstamo para ninguno de los 367 clientes que incluye. 
+  &rarr; madhante.csv. It contains similar information to the previous file but it doesn't reveal the status of the loan for any of the 367 clients. 
   
-  &rarr; sample_submission_49d68Cx.csv. Constará de una única columna que nos indicará el estado del préstamo para los clientes del archivo anterior "madhante.csv"
+  &rarr; sample_submission_49d68Cx.csv.  It consists of a single column indicating the status of the loan for clients from the previous file "madhante.csv"
   
-En la práctica, sobre el apartado de limpieza, se trabajará con un dataset donde se agruparán los tres archivos anteriores, generando un dataset más robusto.
+In the cleaning section, we worked with a dataset where the three previous archives will be grouped together, generating a more robust dataset.
 
-  &rarr; Loan_clean.csv. Fichero final obtenido tras el proceso de limpieza de datos. Este fichero será utilizado a la hora de analizar los datos y participará en la construcción del modelo predictivo.
+  &rarr; Loan_clean.csv. Final file obtained after the data cleaning process. This file will be used when analysing the data and will participate in the construction of the predictive model.
 
-**Carpeta "pdf":**
+**Folder "pdf":**
 
-  &rarr; Archivo  _.pdf_ con una descripción completa de la práctica.
+  &rarr; _.pdf_ file with a complete description of the practice.
 
 
 
-## Recursos consultados
+## References
 
-* Subirats, L., Pérez, D.O. & Calvo, M. (2019, septiembre). _Introducción a la limpieza y análisis de los datos_. Barcelona: FUOC. Material proporcionado por la UOC.
+* Subirats, L., Pérez, D.O. & Calvo, M. (2019, septiembre). _Introducción a la limpieza y análisis de los datos_. Barcelona: FUOC. Material provided by the UOC.
 
-* https://www.kaggle.com/madhansing/bank-loan2 consultado por última vez el 06/06/2020.
+* https://www.kaggle.com/madhansing/bank-loan2 last consulted on 06/06/2020.
